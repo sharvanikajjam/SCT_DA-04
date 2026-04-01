@@ -1,0 +1,13 @@
+Channel,Stage,Count,Spend,Revenue,ROI
+Social Media,Awareness,1200,5000,12000,2.4
+Social Media,Consideration,800,4000,9000,2.25
+Social Media,Conversion,400,3000,8000,2.66
+Email,Awareness,900,2000,6000,3
+Email,Consideration,600,1800,5500,3.05
+Email,Conversion,350,1500,5200,3.46
+Google Ads,Awareness,1000,6000,11000,1.83
+Google Ads,Consideration,650,4500,8500,1.88
+Google Ads,Conversion,300,3500,7000,2
+Affiliate,Awareness,700,2500,5000,2
+Affiliate,Consideration,450,2000,4200,2.1
+Affiliate,Conversion,200,1500,3500,2.33
